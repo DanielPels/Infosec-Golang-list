@@ -5,3 +5,5 @@ Feel free to create a pull request to add tools.
 
 # Tools:
 **[Venom](https://github.com/Dliv3/Venom)** is a multi-hop proxy tool developed for penetration testers using Go.
+
+**[HoneyTrap](https://github.com/honeytrap/honeytrap)** Honeytrap is an extensible and opensource system for running, monitoring and managing honeypots.
