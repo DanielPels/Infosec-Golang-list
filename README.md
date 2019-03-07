@@ -1,4 +1,4 @@
-# Infosec-Golang-list
+# NetSec-Golang-list
 List of intrestring infosec projects created in Golang.
 
 Feel free to create a pull request to add tools.
