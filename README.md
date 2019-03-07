@@ -1,7 +1,7 @@
 # NetSec-Golang-list
-List of intrestring infosec projects created in Golang.
+List of intrestring netsec/security projects created in Golang.
 
-Feel free to create a pull request to add tools.
+Feel free to create pull requests and add tools.
 
 # Tools:
 **[Venom](https://github.com/Dliv3/Venom)** is a multi-hop proxy tool developed for penetration testers using Go.
